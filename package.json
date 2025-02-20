@@ -7,7 +7,7 @@
     "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "James",
+  "author": "Eldrick Pingal",
   "license": "ISC",
   "type": "commonjs",
   "description": "",
